@@ -5,7 +5,7 @@ from telegram import Update, Bot
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 
-API_TOKEN = "7395755630:AAEeLFEYNAovV9V7nE7mvw_OHEJQvZkyzig"
+API_TOKEN = "TOKEN"
 
 bot = telebot.TeleBot(API_TOKEN)
 
